@@ -1,10 +1,8 @@
 ### Howdy 👋
 
-I'm Kimpulla, a coder by day, meme enthusiast by night.
+I'm Kimpulla.
 
-#### Quick facts:
-- 🛠️ **Skills**: Coding and yeah.
-- 🎮 **Hobbies**: Coding, gaming, and perfecting my coffee recipe.
+**Welcome to tyyssija of spagettikoodi.**
 
 #### Let's connect:
 - 🌐 [Website](https://kimpulla.github.io/)
